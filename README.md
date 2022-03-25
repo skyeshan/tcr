@@ -54,7 +54,7 @@ INFLUXDB_TOKEN=The whatsapp-tracking-scraper token
 INFLUXDB_ORG=initial-org
 INFLUXDB_BUCKET=whatsapp-tracking
 ```
-
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skyeshan/tcr)
 ## scraper usage Windows
 
 ```powershell
